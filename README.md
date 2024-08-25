@@ -45,7 +45,7 @@
 
 ### Интеграция с Allure TestOps
 
-> [Job #3993 zmamedov-qa_guru_telegram_mobile_test](https://allure.autotests.cloud/project/4398)
+> [Job #4398 Vadim_Korolev_telegram](https://allure.autotests.cloud/project/4398)
 
 ![allure_testops job](pictures/allure_testops_job.png)
 
