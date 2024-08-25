@@ -26,10 +26,10 @@
 > Параметр --context необязателен, по умолчанию тесты запускаются на эмуляторе
 
 ### Запуск автотестов осуществляется с использованием Jenkins
-> [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/zmamedov-qa_guru_telegram_mobile_test/)
+> [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/Vadim_Korolev_telegram/)
 
 #### Для запуска автотестов в Jenkins
-1. Открыть [задачу в Jenkins](https://jenkins.autotests.cloud/job/zmamedov-qa_guru_telegram_mobile_test/)
+1. Открыть [задачу в Jenkins](https://jenkins.autotests.cloud/job/Vadim_Korolev_telegram/)
 
 ![jenkins job main page](pictures/Jenkins_job_main_page.png)
 
@@ -45,7 +45,7 @@
 
 ### Интеграция с Allure TestOps
 
-> [Job #3993 zmamedov-qa_guru_telegram_mobile_test](https://allure.autotests.cloud/project/4223/jobs)
+> [Job #3993 zmamedov-qa_guru_telegram_mobile_test](https://allure.autotests.cloud/project/4398)
 
 ![allure_testops job](pictures/allure_testops_job.png)
 
